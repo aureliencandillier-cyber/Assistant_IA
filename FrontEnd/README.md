@@ -56,7 +56,7 @@ Installation rapide
     Installation
 
 # Clonez le projet
-git clone https://github.com/idontnowhowtonameme/AssistantIA
+git clone https://github.com/aureliencandillier-cyber/Assistant_IA
 cd AssistantIA/FrontEnd
 
 # Installez les dépendances

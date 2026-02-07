@@ -69,7 +69,7 @@ BackEnd/
 ### 1️⃣ Cloner le projet
 
 ```bash
-git clone https://github.com/idontnowhowtonameme/AssistantIA
+git clone https://github.com/aureliencandillier-cyber/Assistant_IA
 cd AssistantIA/BackEnd
 ```
 
